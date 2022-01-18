@@ -18,7 +18,7 @@
 
 // Playback configuration
 // Replace this with your own Amazon IVS Playback URL
-const playbackUrl = 'https://4428f2eb956c.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.811874869762.channel.h2bfoM7WckHQ.m3u8';
+const playbackUrl = 'https://cb80e371aac3.us-east-1.playback.live-video.net/api/video/v1/us-east-1.842988891867.channel.4wKUlyxWlc1N.m3u8';
 
 // Initialize player
 (function () {
